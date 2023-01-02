@@ -80,7 +80,7 @@ under the License.
 		<dependency>
 			<groupId>org.codehaus.jettison</groupId>
 			<artifactId>jettison</artifactId>
-			<version>1.1</version>
+			<version>1.5.2</version>
 		</dependency>
 		
 		<!--  guava needs to be in "provided" scope, to make sure it is not included into the jars by the shading -->
